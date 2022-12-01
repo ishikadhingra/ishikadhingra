@@ -8,4 +8,4 @@
 <li>💁‍ My linkedin account is https://www.linkedin.com/in/ishikadhingra3101/ </li>
 </li>
 
-<li>😄 Pronouns:https://ishikadhingra.github.io</li>
+<li>😄 Pronouns: https://ishikadhingra.github.io</li>
